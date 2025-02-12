@@ -1,4 +1,4 @@
-import './shopItem.css';
+// import './shopItem.css';
 
 const ShopItemFunc = ({item}) => {
   const {
